@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Developing API in NodeJS using Express JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsanrezaie1/NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehsanrezaie1/NodeJS/issues"
+  },
+  "homepage": "https://github.com/ehsanrezaie1/NodeJS#readme",
+  "dependencies": {
+    "mongoose": "^6.8.1",
+    "underscore": "^1.13.6"
+  }
+}
